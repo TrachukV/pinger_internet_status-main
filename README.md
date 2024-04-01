@@ -1,4 +1,4 @@
-# Internet Connectivity Widget Package
+# Pinger Internet Status Package
 
 This package provides a simple yet powerful way to monitor internet connectivity within your Flutter applications. Featuring `PingerInternetStatus`, a class that periodically checks internet connectivity by pinging specified URLs, and `InternetStatusBuilder`, a widget that reacts to connectivity changes, this package ensures your app remains responsive and informative regarding its connection status.
 
@@ -6,7 +6,7 @@ This package provides a simple yet powerful way to monitor internet connectivity
 
 - **Internet Connectivity Monitoring:** Periodically ping specified URLs to check for internet connectivity.
 - **Asynchronous Updates:** Utilizes Dart isolates to perform connectivity checks without blocking the main UI thread.
-- **Dynamic UI Responses:** Includes `InternetStatusBuilder`, a widget that updates its display based on the current internet connectivity status.
+- **Dynamic UI Responses:** Includes `PingerBuilder`, a widget that updates its display based on the current internet connectivity status.
 - **Customizable Connectivity Checks:** Configure URLs and ping intervals to suit your app's needs.
 - **Optional Logging:** Control console logging for connectivity checks and ping results.
 
@@ -16,13 +16,13 @@ To get started with the Internet Connectivity Widget Package, follow these simpl
 
 ### Installation
 
-1. Add `your_package_name` to your `pubspec.yaml` under the dependencies section:
+1. Add `pinger_internet_status` to your `pubspec.yaml` under the dependencies section:
 
     ```yaml
     dependencies:
       flutter:
         sdk: flutter
-      your_package_name: latest_version
+      pinger_internet_status: 0.1.0
     ```
 
 2. Import the package in your Flutter app:
