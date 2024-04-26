@@ -37,7 +37,7 @@ Below are GIFs demonstrating the package in use with different architectural app
 
 | BLoC Example                                                                                                         | StreamBuilder Example                                                                                                                             |
 |----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/TrachukV/pinger_internet_status-main/row/main/example_bloc.gif" width="300">            | <img src="https://github.com/TrachukV/pinger_internet_status-main/row/main/example_streambuilder.gif" width="300">                                |
+| <img src="https://github.com/TrachukV/pinger_internet_status-main/raw/main/example_bloc.gif" width="300">            | <img src="https://github.com/TrachukV/pinger_internet_status-main/raw/main/example_streambuilder.gif" width="300">                                |
 | [View BLoC Example Code](https://github.com/TrachukV/pinger_internet_status-main/tree/main/example/lib/example_bloc) | [View StreamBuilder Example Code](https://github.com/TrachukV/pinger_internet_status-main/blob/main/example/lib/example_stream_builder/main.dart) |
 
 These examples showcase how the `PingerInternetStatus` can be integrated into Flutter applications using different state management techniques.
