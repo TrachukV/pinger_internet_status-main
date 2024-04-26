@@ -1,6 +1,6 @@
 name: pinger_internet_status
 description: A Flutter package for monitoring internet connectivity by periodically pinging specified URLs.
-version: 0.2.1
+version: 0.2.2
 homepage: https://github.com/TrachukV/pinger_internet_status-main
 
 environment:
