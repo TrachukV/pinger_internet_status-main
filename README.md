@@ -62,12 +62,17 @@ Follow these steps to integrate the Pinger Internet Status package into your Flu
 
 Below are GIFs demonstrating the package in use with different architectural approaches:
 
-| BLoC Example                                    | StreamBuilder Example                              |
-|-------------------------------------------------|----------------------------------------------------|
-| ![BLoC Example](pinger_internet_status-main/example_bloc.gif) | ![StreamBuilder Example](pinger_internet_status-main/example_streambuilder.gif) |
-| [View BLoC Example Code](pinger_internet_status-main/example/lib/example_bloc) | [View StreamBuilder Example Code](pinger_internet_status-main/example/lib/example_stream_builder) |
+## Examples in Action
+
+Below are GIFs demonstrating the package in use with different architectural approaches:
+
+| BLoC Example                                  | StreamBuilder Example                              |
+|------------------------------------------|----------------------------------------------------|
+| <img src="https://github.com/TrachukV/pinger_internet_status-main/blob/main/example_bloc.gif" width="300"> | <img src="https://github.com/TrachukV/pinger_internet_status-main/blob/main/example_streambuilder.gif" width="300"> |
+| [View BLoC Example Code](https://github.com/TrachukV/pinger_internet_status-main/example/lib/example_bloc) | [View StreamBuilder Example Code](https://github.com/TrachukV/pinger_internet_status-main/example/lib/example_stream_builder) |
 
 These examples showcase how the `PingerInternetStatus` can be integrated into Flutter applications using different state management techniques.
+
 
 ## Contributing
 
